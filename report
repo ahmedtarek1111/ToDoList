@@ -1,0 +1,44 @@
+**React Native To-Do List Application Report**
+
+## 1. Introduction
+The **React Native To-Do List Application** is a mobile app designed to help users manage their daily tasks efficiently. This project was developed using React Native and Expo, ensuring compatibility across both Android and iOS platforms. The app provides an intuitive user interface for adding, updating, and deleting tasks, making task management simple and effective.
+
+## 2. Objectives
+The primary objectives of this project are:
+- To develop a functional to-do list application using **React Native**.
+- To implement basic CRUD (Create, Read, Update, Delete) operations.
+- To ensure a responsive and user-friendly interface.
+- To deploy the project using **Expo** and provide an online preview.
+
+## 3. Technologies Used
+The project was built using the following technologies:
+- **Programming Language:** JavaScript (React Native)
+- **Framework:** React Native
+- **Development Platform:** Expo
+- **State Management:** React Hooks (useState, useEffect)
+- **Version Control:** Git and GitHub
+- **Online Deployment:** Expo Snack
+
+## 4. Features Implemented
+The To-Do List application includes the following features:
+- **Add Tasks:** Users can enter new tasks.
+- **Mark Tasks as Completed:** Tasks can be checked off when done.
+- **Edit Tasks:** Users can modify existing tasks.
+- **Delete Tasks:** Unnecessary tasks can be removed.
+- **Persistent Storage:** The app retains data even after a restart (using AsyncStorage in future versions).
+
+
+
+
+## 5. Deployment & Online Demo
+The application is deployed using **Expo Snack**. The online demo can be accessed at:
+[Expo Snack Link](YOUR_EXPO_LINK_HERE)
+
+## 6. Runtime Video
+A demonstration video showing the application's functionality has been uploaded to the GitHub repository.
+
+
+
+**Repository Link:** [GitHub Repo](https://github.com/ahmedtaarekkk/TO_DO_List)
+
+**Developed by:** [Ahmed Tarek Abdelsatar]
